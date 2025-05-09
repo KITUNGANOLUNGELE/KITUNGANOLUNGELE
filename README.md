@@ -37,6 +37,7 @@ I'm always open to:
 - Conversations about mobile, big data, or humanitarian tech projects
 
 📬 **Reach me at**: hlungelehenock@outlook.com
+**linkdln** : www.linkedin.com/in/henock-kitungano-lungele-568b9b364
 
 
 <!--

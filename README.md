@@ -12,7 +12,7 @@
 - **Mobile Development** with Flutter (Clean architecture, Firebase, native features)
 - **Frontend Development** with Vue.js (Quasar, Nuxt) & Tailwind CSS
 - **Backend Engineering** with Node.js, PHP (Laravel), and Python (FastAPI, Flask)
-- **Data Engineering**: Hadoop, PySpark, Kafka, MongoDB, PostgreSQL
+- **Data Engineering**: Hadoop, PySpark, Kafka, MongoDB, PostgreSQL, MySQL, SQL Server, SQL lite
 - **RAG Systems** using FAISS, ChromaDB, and Pinecone
 - **API Design** (RESTful) with secure auth (JWT, OAuth2)
 - **UX/UI** Design with attention to accessibility & performance
